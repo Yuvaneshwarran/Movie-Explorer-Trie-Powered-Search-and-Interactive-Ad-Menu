@@ -1,0 +1,172 @@
+.logo{
+    padding-left: 20px;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 40px;
+    color:white;   
+}
+body{
+    background-image: url(Assests/movie.jpg);
+    background-size:cover;
+    background-repeat: no-repeat;
+}
+
+.searchele{
+    width:100%;
+    height:100%;
+    vertical-align: middle;
+}
+
+.search{
+    border:none;
+    height: 50px;
+    width: 525px;
+    border:4px solid white;
+    padding: 0px,10px;
+    padding-left: 20px;
+    border-radius: 50px;
+    font-size: 25px;
+    font-family: monospace;
+    color:black;
+    text-decoration: none;
+}
+.textbox{
+    margin: auto;
+    margin-top: 2%;
+    position:relative;
+    width: 500px;
+    height:50px;
+    padding:0px 10px;
+    
+}
+.search:focus{
+    outline:none;
+}
+.clickable{
+    cursor: pointer;
+}
+.movie1,
+.movie2,
+.movie3,
+.movie4,
+.movie5,
+.movie6,
+.movie7,
+.movie8{
+    width: 200px;
+    margin-top: 50px;
+}
+
+.mov1,
+.mov2,
+.mov3,
+.mov4,
+.mov5,
+.mov6,
+.mov7,
+.mov8{
+    color: white;
+    width: 200px;
+    padding: 5px;
+    font-size: 25px;
+    font-family:monospace;
+    display: flex;
+    text-decoration: none;
+
+}
+
+.a,
+.e{
+    margin-left: 165px;
+    display:inline-block;
+    margin-right:75px;
+}
+.b,
+.f{
+    display:inline-block;
+    margin-right: 75px;
+}
+.c,
+.g{
+    display:inline-block;
+    margin-right:75px;
+}
+.d,
+.h{
+    display:inline-block;
+}
+.review{
+    margin-bottom: 100px;
+    margin-top: 1%;
+    margin-left: 15%;
+    font-size: 20px;
+}
+.reviewtext{
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-left: 4%;
+    font-size: 20px;
+}
+.but{
+    height: 75px;
+    width: 300px;
+    border-radius: 50px;
+    background-color: black;
+    color: aliceblue;
+    font-size: 30px;
+    font-family: monospace;
+}
+.reviewbox{
+    padding-top: 200px;
+    padding-left: 50%;
+}
+.design{
+    padding-left: 20px;
+    font-family: monospace;
+    font-weight: bold;
+    font-size: 40px;
+    color:rgb(254, 254, 254)
+}
+.wide1,
+.wide4,
+.wide5{
+    margin-top: 2%;
+    width: 50%;
+    border-radius: 50px;
+    margin-top: 25px;
+    display: inline-block;
+    margin-left:25px;
+}
+.wide2,
+.wide6,
+.wide8,
+.wide3,
+.wide7{
+    margin-top: 2%;
+    width: 50%;
+    border-radius: 50px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.name{
+    font-family: monospace;
+    font-size: medium;
+    font-weight: 200;
+    color: black;
+    padding-left: 40%;
+    margin-top: 15%;
+}
+.font{
+    font-size: 25px;
+    color: white;
+    font-family: sans-serif;
+}
+.text1{
+    margin-left: 3%;
+    color: white;
+    font-size: 25px;
+    display:inline-block;
+}
+.reviewsub{
+    display: flex;
+}
