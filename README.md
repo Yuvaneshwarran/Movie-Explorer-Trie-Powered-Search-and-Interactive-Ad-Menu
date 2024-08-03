@@ -1,6 +1,5 @@
 # Movie-Explorer-Trie-Powered-Search-and-Interactive-Ad-Menu
 This intuitive web application leverages the power of a Trie data structure for lightning-fast search functionality, allowing users to find their favorite movies quickly and efficiently. Additionally, our interactive drop-down menu enhances the user experience by providing dynamic ad content.
-# Movie Explorer: Trie-Powered Search and Interactive Ad Menu
 
 ## Overview
 Welcome to Movie Explorer! This web application allows users to explore a vast collection of movies with ease. Utilizing a Trie data structure for efficient search functionality, users can quickly find their favorite movies. Additionally, the website features an interactive drop-down menu designed for ad projects, enhancing the user experience with dynamic content.
